@@ -1,2 +1,0 @@
-#  voice chat
-  voice chat
